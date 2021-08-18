@@ -1,2 +1,2 @@
-# simple-app-hng
-A simple app that collects user input and displ
+#HNGi-Task-One
+A simple app that collects user input and displays the output in a textview
