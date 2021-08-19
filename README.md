@@ -1,4 +1,4 @@
-# Simple APP HNGi <h1> tag
+# Simple APP HNGi 
 A simple app that collects user input and displays on the screen
 
 
